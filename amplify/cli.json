@@ -10,9 +10,7 @@
       "skipoverridemutationinputtypes": true,
       "transformerversion": 2,
       "suppressschemamigrationprompt": true,
-      "securityenhancementnotification": false,
-      "usesubusernamefordefaultidentityclaim": true,
-      "enableautoindexquerynames": false
+      "securityenhancementnotification": false
     },
     "frontend-ios": {
       "enablexcodeintegration": true
